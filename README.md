@@ -3,7 +3,7 @@
 Summary: Organized and analyzed a database of 4,000 past projects in order to uncover any hidden trends.
 
 
-Sheet1 - Conditionally formatted State column, created a new Column O to calculate Percent Funded and conditionally formatted using  a three color scale.  Created new Column P to caluculate Average Donation per kickstart.  Created two new Columns at Q and R to   split the Category and Subcategory column into two parts.  Created a new column S named Date Created Conversion and Date Ended  Conversion which converted timestamps. 
+Sheet1 - Conditionally formatted State column, created a new Column O to calculate Percent Funded and conditionally formatted using  a three color scale.  Created new Column P to caluculate Average Donation per kickstart.  Created two new Columns at Q and R to   split the Category and Subcategory column into two parts.  Created a new column S named Date Created Conversion and Date Ended  Conversion which converted Unix timestamps. 
 
 Sheet2 - Created a pivot table to analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.   Created a stacked column pivot chart that can be filtered by country based on the pivot table created.
 
